@@ -1,6 +1,6 @@
 # Zepto Assignment 
 
-Followed the task instructions to create the component and hosted it on GitHub Pages.
+Active Link: https://singh-supreet.github.io/zepto/
 
 Successfully implemented the specified requirements:
 
